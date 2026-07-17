@@ -1,6 +1,6 @@
-# Paden Gillispie
+﻿# Paden Gillispie
 
-**Infrastructure Engineer · Security Practitioner · Technical Mentor · Army Veteran**
+**Infrastructure Engineer Â· Security Practitioner Â· Technical Mentor Â· Army Veteran**
 
 I build, secure, migrate, automate, and document practical infrastructure. My work spans virtualization, Linux and Windows systems, backup and recovery, Zero Trust access, vulnerability management, cloud-native platforms, internal engineering tools, and self-hosted security labs.
 
@@ -48,7 +48,3 @@ Practical career mentoring, home-lab and portfolio reviews, and focused infrastr
 - Portfolio: [gillpad.dev](https://gillpad.dev)
 - LinkedIn: [linkedin.com/in/paden-gillispie](https://www.linkedin.com/in/paden-gillispie)
 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
