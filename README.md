@@ -1,6 +1,6 @@
 ﻿# Paden Gillispie
 
-**Infrastructure Engineer Â· Security Practitioner Â· Technical Mentor Â· Army Veteran**
+**Infrastructure Engineer · Security Practitioner · Technical Mentor · Army Veteran**
 
 I build, secure, migrate, automate, and document practical infrastructure. My work spans virtualization, Linux and Windows systems, backup and recovery, Zero Trust access, vulnerability management, cloud-native platforms, internal engineering tools, and self-hosted security labs.
 
